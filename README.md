@@ -1,0 +1,1 @@
+Data from [MPM Dean et al. Nature Materials 15, 601–605 (2016)](https://www.doi.org/10.1038/nmat4641)[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mpmdean/NatMat214RIXSdata/master?filepath=plot.ipynb)
